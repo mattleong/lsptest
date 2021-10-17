@@ -27,6 +27,9 @@
     ]
   },
   "projects": {
+    "feature": {
+      "tags": []
+    },
     "webapp": {
       "tags": []
     },
